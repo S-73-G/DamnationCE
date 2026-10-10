@@ -1,9 +1,0 @@
-/*
-GARBAGE_DEFINITIONS.H
-*/
-
-#ifndef __GARBAGE_DEFINITIONS_H
-#define __GARBAGE_DEFINITIONS_H
-#pragma once
-
-#endif // __GARBAGE_DEFINITIONS_H
