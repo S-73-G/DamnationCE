@@ -1,9 +1,0 @@
-/*
-CELLULAR_AUTOMATA.H
-*/
-
-#ifndef __CELLULAR_AUTOMATA_H
-#define __CELLULAR_AUTOMATA_H
-#pragma once
-
-#endif // __CELLULAR_AUTOMATA_H
