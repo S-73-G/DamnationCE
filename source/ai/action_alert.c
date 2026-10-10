@@ -41,10 +41,10 @@ static short action_alert_next_position(
 	boolean *direction_increasing);
 
 /* ---------- public code */
-/* port: boolean from cseries.h which is defined as nothimg more than a representation of an unsigned char (1 byte sized); move_position_order stored as a long but called as a short & defined prior as short */
+
 boolean action_alert_setup(
 	long actor_index,
-	short move_position_order,
+	long move_position_order,
 	short initial_move_position_index,
 	struct alert_state_data *state_data)
 {
