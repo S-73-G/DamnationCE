@@ -1,9 +1,0 @@
-/*
-METER_DEFINITIONS.H
-*/
-
-#ifndef __METER_DEFINITIONS_H
-#define __METER_DEFINITIONS_H
-#pragma once
-
-#endif // __METER_DEFINITIONS_H
