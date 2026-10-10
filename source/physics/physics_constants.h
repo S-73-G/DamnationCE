@@ -1,9 +1,0 @@
-/*
-PHYSICS_CONSTANTS.H
-*/
-
-#ifndef __PHYSICS_CONSTANTS_H
-#define __PHYSICS_CONSTANTS_H
-#pragma once
-
-#endif // __PHYSICS_CONSTANTS_H
