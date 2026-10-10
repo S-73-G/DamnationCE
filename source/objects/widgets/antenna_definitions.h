@@ -1,9 +1,0 @@
-/*
-ANTENNA_DEFINITIONS.H
-*/
-
-#ifndef __ANTENNA_DEFINITIONS_H
-#define __ANTENNA_DEFINITIONS_H
-#pragma once
-
-#endif // __ANTENNA_DEFINITIONS_H
