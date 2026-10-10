@@ -1,9 +1,0 @@
-/*
-TERRAIN_DEFINITIONS.H
-*/
-
-#ifndef __TERRAIN_DEFINITIONS_H
-#define __TERRAIN_DEFINITIONS_H
-#pragma once
-
-#endif // __TERRAIN_DEFINITIONS_H
