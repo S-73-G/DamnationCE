@@ -1,9 +1,0 @@
-/*
-INPUT_DEVICE_DEFAULTS.H
-*/
-
-#ifndef __INPUT_DEVICE_DEFAULTS_H
-#define __INPUT_DEVICE_DEFAULTS_H
-#pragma once
-
-#endif // __INPUT_DEVICE_DEFAULTS_H
