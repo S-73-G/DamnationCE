@@ -1,9 +1,0 @@
-/*
-SCENARIO_PLACEMENT.H
-*/
-
-#ifndef __SCENARIO_PLACEMENT_H
-#define __SCENARIO_PLACEMENT_H
-#pragma once
-
-#endif // __SCENARIO_PLACEMENT_H
