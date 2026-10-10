@@ -1,9 +1,0 @@
-/*
-STRUCTURE_BSP_PROCS.H
-*/
-
-#ifndef __STRUCTURE_BSP_PROCS_H
-#define __STRUCTURE_BSP_PROCS_H
-#pragma once
-
-#endif // __STRUCTURE_BSP_PROCS_H
